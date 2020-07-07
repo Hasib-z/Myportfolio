@@ -1,0 +1,127 @@
+body {
+  font-family: "Fondamento", cursive;
+  margin: 0px;
+}
+
+.half-width {
+  width: 30%;
+  float: left;
+  margin: 100px;
+  padding: 2px;
+  float: left;
+}
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 40px;
+}
+.firstparthalf {
+  margin: 250px;
+  line-height: 10px;
+}
+
+.name-color {
+  color: #fc4160;
+}
+.half-width img {
+  width: 100%;
+  margin: -50px;
+  margin-left: 90px;
+}
+
+.firstpart {
+  background-image: url("images/header-bg.png");
+  background-size: auto;
+}
+
+section {
+  height: 800px;
+}
+.hiremebttn {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, #fc4160, #f5284a);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: aliceblue;
+  font-weight: 500;
+}
+.secoundpart {
+  background-image: url("images/biography-bg.png");
+  background-size: auto;
+}
+
+.secoundparthalf {
+  margin-top: 300px;
+}
+
+.recentsection {
+  margin: 0px;
+  text-align: center;
+}
+
+.recentpic {
+  width: 300px;
+  height: 250px;
+  float: left;
+  padding: 2px;
+}
+.recentpic img {
+  width: 100%;
+}
+
+#first {
+  position: relative;
+  left: 500px;
+  margin: 5px;
+}
+#secound {
+  position: absolute;
+  left: 800px;
+  margin: 5px;
+}
+#third {
+  position: absolute;
+  left: 1100px;
+  margin: 5px;
+}
+.recentsection {
+  background-image: url("images/latest-work-bg.png");
+  background-size: auto;
+  height: 500px;
+}
+.client {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("images/footer-bg.png");
+  background-size: auto;
+  height: 600px;
+}
+
+.clientposition {
+  color: #b4b2ad;
+  line-height: 10px;
+}
+
+.commnet {
+  width: 600px;
+  position: absolute;
+  left: 650px;
+}
+
+.contmebttn {
+  background-image: linear-gradient(45deg, #fc4160, #f5284a);
+  padding: 50px 50px;
+  border-radius: 5px;
+  color: aliceblue;
+  font-weight: 500;
+  line-height: 140px;
+  text-decoration: none;
+  white-space: normal;
+  width: 60px;
+}
+footer p {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
