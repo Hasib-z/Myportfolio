@@ -73,17 +73,18 @@ section {
 #first {
   position: relative;
   left: 500px;
-  margin: 5px;
+  padding: 5px;
 }
 #secound {
   position: absolute;
   left: 800px;
-  margin: 5px;
+
+  padding: 5px;
 }
 #third {
   position: absolute;
   left: 1100px;
-  margin: 5px;
+  padding: 5px;
 }
 .recentsection {
   background-image: url("images/latest-work-bg.png");
